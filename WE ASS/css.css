@@ -1,0 +1,39 @@
+.saqib
+{
+    display: block;
+    background-color: black;
+    height: 6px;
+    width: 50px;
+    margin: 4px;
+    cursor: pointer;
+}
+
+.talha
+{
+    cursor: pointer;
+    display: block;
+    background-color: black;
+    height: 6px;
+    width: 50px;
+    margin: 4px;
+    background-size: 25px 25px;
+    background-color: aqua;
+    box-shadow: inset 20px 20px 20px seagreen;
+}
+
+#s1
+{
+    transform: rotate(45deg);
+}
+#c1
+{
+    margin-top: 50px;
+    margin-bottom: 30px;
+}
+
+#s2
+{
+    margin-top: -10px;
+    /* position: sticky; */
+    transform: rotate(-45deg);
+}
